@@ -1,8 +1,8 @@
 # orkify
 
-orkify brings a Vercel-like deployment workflow to self-hosted Node.js and Next.js apps.
+orkify brings a cloud-like deployment workflow to self-hosted Node.js and Next.js apps.
 
-Built for teams that need more than PM2 without the operational overhead of Kubernetes, Orkify helps you run apps on your own infrastructure with a more modern, platform-like workflow. The goal is to make self-hosting practical without giving up deploys, logs, monitoring, collaboration, and operational visibility.
+It is built for developers that need more than a simple Node process manager, without the operational overhead of complex container orchestration. Orkify helps you run apps on your own infrastructure with a more modern, platform-like workflow.
 
 The free and open-source CLI includes:
 
@@ -20,10 +20,10 @@ The optional SaaS dashboard adds:
 - rolling deployments
 - built-in support chat
 - Discord and Slack integrations
-- team collaboration
+- team collaboration across multiple hosts
 - extended authenticated MCP support for teams
 
-Runs on Windows, macOS, and Linux, as well as in container-based workflows.
+Runs on Windows, macOS, and Linux, with support for container-based workflows.
 
 - [Website](https://orkify.com)
 - [Docs](https://orkify.com/docs)
