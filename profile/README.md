@@ -8,7 +8,7 @@ The free and open-source CLI includes:
 
 - process management
 - zero-downtime deployments
-- log aggregation
+- log aggregation & rotation
 - orchestration across hosts
 - basic MCP support for local development and remote apps
 
@@ -21,7 +21,7 @@ The optional SaaS dashboard adds:
 - built-in support chat
 - Discord and Slack integrations
 - team collaboration across multiple hosts
-- extended authenticated MCP support for teams
+- extended MCP authentication for teams
 
 Runs on Windows, macOS, and Linux, with support for container-based workflows.
 
